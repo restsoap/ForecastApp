@@ -70,3 +70,5 @@ Devuelve el clima transformado y limpio para una ubicación específica.
 **Ejemplo de Solicitud:**
 ```http
 GET https://localhost:7219/api/weather?latitude=4.75&longitude=-74.03
+
+GET http://localhost:5044/api/weather?latitude=4.75&longitude=-74.03
